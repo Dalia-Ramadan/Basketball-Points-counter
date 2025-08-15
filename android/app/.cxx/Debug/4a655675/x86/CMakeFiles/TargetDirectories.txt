@@ -1,0 +1,2 @@
+E:/flu/newStart/basketball_points_counter/android/app/.cxx/Debug/4a655675/x86/CMakeFiles/edit_cache.dir
+E:/flu/newStart/basketball_points_counter/android/app/.cxx/Debug/4a655675/x86/CMakeFiles/rebuild_cache.dir
